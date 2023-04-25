@@ -181,9 +181,9 @@ You can choose to install and use another solver that is supported by [Pulp](htt
 - [Gurobi](https://www.gurobi.com/)
 
 ## Requirments
--numpy
--pulp
--higis(pip install HiSpot-0.1.0-py3-none-any)
+-numpy  
+-pulp  
+-higis(pip install HiSpot-0.1.0-py3-none-any)  
 
 ## Installation
 pip install higis
