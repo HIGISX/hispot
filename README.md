@@ -101,7 +101,7 @@ plt.show()
 ```
 see [notebook](https://github.com/HIGISX/hispot/blob/main/Notebooks/LRP_cap.ipynb) for more code details.
 
-### p-Hub Problems
+### p-Hub Problem
 ```python
 import random
 import numpy as np
