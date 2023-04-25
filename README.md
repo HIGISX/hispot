@@ -185,6 +185,11 @@ You can choose to install and use another solver that is supported by [Pulp](htt
 -pulp  
 -higis(pip install HiSpot-0.1.0-py3-none-any)  
 
+[optional]
+-matplotlib  
+-geopandas
+-geoplot
+
 ## Installation
 pip install higis
 pip install numpy
