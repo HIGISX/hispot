@@ -172,7 +172,7 @@ see [notebook](https://github.com/HIGISX/hispot/blob/main/Notebooks/pHub.ipynb) 
 3. conda activate higis
 4. Launch jupyter notebook `jupyter notebook`(pip install jupyter)
 5. pip install pulp
-6. pip install HiSpot-0.1.0-py3-none-any
+6. pip install HiSpot-0.1.0-py3-none-any.whl
 
 You should now be able to run the example notebooks.
 
