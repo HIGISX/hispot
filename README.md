@@ -195,12 +195,12 @@ pip install higis
 pip install numpy
 pip install pulp
 
-## Contribute
+% ## Contribute
 
-## Support 
+% ## Support 
 
-## Code of Conduct
+% ## Code of Conduct
 
-## Citation 
+% ## Citation 
 
 
