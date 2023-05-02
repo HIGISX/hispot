@@ -99,6 +99,7 @@ gplt.pointplot(uncenter_points,
 plt.legend(loc='upper left')
 plt.show()
 ```
+![LRP](img/LRP.jpg)
 see [notebook](https://github.com/HIGISX/hispot/blob/main/Notebooks/LRP_cap.ipynb) for more code details.
 
 ### p-Hub Problem
@@ -150,6 +151,7 @@ for i in hubs:
 plt.legend(loc='best', fontsize = 15) 
 plt.show()
 ```
+![PHUB](img/PHUB.jpg)
 see [notebook](https://github.com/HIGISX/hispot/blob/main/Notebooks/pHub.ipynb) for plotting code and more details.
 
 
