@@ -195,12 +195,8 @@ pip install higis
 pip install numpy
 pip install pulp
 
-% ## Contribute
+## Support 
+If you are having trouble, please create an issue, start a discussion, or talk to us in the gitter room.
 
-% ## Support 
-
-% ## Code of Conduct
-
-% ## Citation 
 
 
