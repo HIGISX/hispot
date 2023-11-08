@@ -1,5 +1,8 @@
 # HiSpot：High Intelligence Spatial Optimization 
-Develop HiSpot open-source software to realize mathematical planning solver, approximate algorithm and heuristic algorithm to solve spatial optimization problems.
+Develop HiSpot open-source software to realize mathematical planning solver, approximate algorithms and heuristic algorithms to solve spatial optimization problems.
+
+Wang, S., Zhou, J., Liang, H., Wang, Z., Su, C., & Li, X. (2023, November). A New Approach for Solving Location Routing Problems with Deep Reinforcement Learning of Emergency Medical Facility. In Proceedings of the 8th ACM SIGSPATIAL International Workshop on Security Response using GIS 2023 (pp. 50-53).https://doi.org/10.1145/3615884.3629429
+
 
 ### Location Routing Problem
 LRP jointly considers the facility location problem (FLP) and the vehicle routing problem (VRP)
