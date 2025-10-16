@@ -104,6 +104,9 @@ plt.show()
 ![LRP](img/LRP.png)
 see [notebook](https://github.com/HIGISX/hispot/blob/main/Notebooks/LRP_cap.ipynb) for more code details.
 
+![BCLP](img/BCLP-pingshan.png)
+![LSCP](img/LSCP-pingshan.png)
+![MCLP](img/MCLP-pingshan.png)
 ### p-Hub Problem
 ```python
 import random
@@ -154,6 +157,10 @@ plt.legend(loc='best', fontsize = 15)
 plt.show()
 ```
 ![PHUB](img/PHUB.png)
+![Pcenter](img/pCenter-nansha.png)
+![Pcenter](img/pCenter-nansha-paths.png)
+![Pmedian](img/pMedian-nansha.png)
+![Pmedian](img/pMedian-nansha-paths.png)
 see [notebook](https://github.com/HIGISX/hispot/blob/main/Notebooks/pHub.ipynb) for plotting code and more details.
 
 
