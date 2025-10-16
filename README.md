@@ -2,11 +2,6 @@
 Develop HiSpot open-source software to realize mathematical planning solver, approximate algorithms and heuristic algorithms to solve spatial optimization problems.
 
 
-Wang, S., Su, C., Zhou, J., Li, X., Xu, D., & Wei, W. (2023). Analysis of the Distribution Characteristics and Influencing Factors of Advertising Billboards in Wuhan. Proceedings of the 7th ACM SIGSPATIAL Workshop on Location-Based Recommendations, Geosocial Networks and Geoadvertising, 6–14. https://doi.org/10.1145/3615896.3628348.  
-Zhong, Y., Wang, S., Liang, H., Wang, Z., Zhang, X., Chen, X., & Su, C. (2024). ReCovNet: Reinforcement learning with covering information for solving maximal coverage billboards location problem. International Journal of Applied Earth Observation and Geoinformation, 128, 103710. https://doi.org/10.1016/j.jag.2024.103710.  
-Wang, S., Zhou, J., Liang, H., Wang, Z., Su, C., & Li, X. (2023, November). A New Approach for Solving Location Routing Problems with Deep Reinforcement Learning of Emergency Medical Facility. In Proceedings of the 8th ACM SIGSPATIAL International Workshop on Security Response using GIS 2023 (pp. 50-53).https://doi.org/10.1145/3615884.3629429.  
-
-
 ### Location Routing Problem
 LRP jointly considers the facility location problem (FLP) and the vehicle routing problem (VRP)
 
