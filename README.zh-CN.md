@@ -19,6 +19,9 @@
 
 ## 项目简介
 
+🎉 我们的论文已被《International Journal of Digital Earth》正式录用！您可以点击[这里](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2687273)阅读。
+
+
 **HiSpot**（*High Intelligence Spatial Optimization*）旨在为设施选址、覆盖服务、选址—路径等典型空间优化问题提供**可复现、可扩展**的分析流水线：从地理数据处理、数学模型建模、求解到结果可视化，尽量在同一套面向对象的 API 中完成，降低“商业 GIS + 外部求解器 + 自写胶水代码”的割裂成本。
 
 本仓库对应论文：**《HiSpot: An Integrated and Accessible Python Framework for Spatial Optimization in Urban Analytics》**（匿名稿 `Manuscript_anonymous.docx`）。论文强调 HiSpot 将数据加工、模型表达、解的生成与制图表达贯通，并支持设施选址（FLP）、覆盖模型（如 MCLP / LSCP）、选址—路径（LRP）等范式，且可与常规地理数据结构衔接；同时引入面向空间优化的基准数据与真实路网多尺度实例，便于对比与复现实验。
