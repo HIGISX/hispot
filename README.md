@@ -18,7 +18,7 @@
 ---
 
 ## Overview
-🎉 Our paper has been accepted by International Journal of Digital Earth! You can read it [here]([xxxxx](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2687273)).
+🎉 Our paper has been accepted for publication in the *International Journal of Digital Earth*! You can read it [here](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2687273).
 
 **HiSpot** (*High Intelligence Spatial Optimization*) provides a **reproducible, extensible** pipeline for classical spatial optimization tasks—including facility location, coverage service design, and location–routing—from geospatial data handling and model formulation to solving and visualization, within a cohesive object-oriented API. This reduces the friction of stitching together commercial GIS, external solvers, and ad hoc glue code.
 
